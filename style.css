@@ -1,0 +1,15 @@
+body{
+    color: white;
+}
+.product_title{
+    color: green;
+}
+.product_description{
+    color: purple;
+}
+.product_description{
+    color: red;
+}
+#product_imagen{
+    width: 500px;
+}

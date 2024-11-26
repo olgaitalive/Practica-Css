@@ -9,19 +9,34 @@ body{
     color: purple;
 }
 .product_description{
-    color: red;  
+    color: rgb(240, 235, 235);  
 }
 #product_imagen{
     width: 250px;
+    margin: 10px;
 }
 .colordiv{
-    background-color: blueviolet;
+    background-color: rgb(217, 43, 226);
 }
 .Des{
     background: black;
     padding: 30px;
-    border: 5px;
+    border: 10px;
     margin: 10px;
     color: chartreuse;
 
+}
+.product_link{
+    color: yellow;
+}
+.deta_boton{
+    background: black;
+    color: white;
+    padding: 30px;
+    border: 5px;
+    margin: 10px;
+}
+.deta-h1{
+    color: yellow;
+    margin: 10px;
 }
